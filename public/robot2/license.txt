@@ -1,0 +1,11 @@
+Model Information:
+* title:	Micro Flying Robot's
+* source:	https://sketchfab.com/3d-models/micro-flying-robots-18ff6fa66b0d483a8758e4602e5b70b0
+* author:	HeinryLim (https://sketchfab.com/Heinrylim)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Micro Flying Robot's" (https://sketchfab.com/3d-models/micro-flying-robots-18ff6fa66b0d483a8758e4602e5b70b0) by HeinryLim (https://sketchfab.com/Heinrylim) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
